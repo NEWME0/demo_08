@@ -1,0 +1,10 @@
+# Ignore anything
+**
+
+# Except
+!/src
+!/src/**.py
+!.dockerignore
+!.gitignore
+!Dockerfile
+!requirements.txt
