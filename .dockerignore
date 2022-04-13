@@ -1,5 +1,7 @@
-# Ignore
+# Ignore anything
 **
 
-# Allow
-!/src/**
+# Except
+!/src
+!/src/**.py
+!requirements.txt
