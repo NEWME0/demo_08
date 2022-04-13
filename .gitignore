@@ -3,7 +3,6 @@
 
 # Except
 !/src
-!/src/**.py
 !.dockerignore
 !.gitignore
 !Dockerfile
